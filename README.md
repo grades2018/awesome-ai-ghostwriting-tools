@@ -20,8 +20,6 @@ Tools for the whole ghostwriting workflow: capturing a client's stories and voic
 - [Client Management, Contracts and Payments](#client-management-contracts-and-payments)
 - [Finding Ghostwriting Work](#finding-ghostwriting-work)
 - [General AI Assistants](#general-ai-assistants)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
 
 ## AI Book Drafting Suites
 
