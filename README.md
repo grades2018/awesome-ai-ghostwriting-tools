@@ -51,6 +51,7 @@ Turning hours of interviews into a chapter plan the client can approve.
 - [Scrivener](https://www.literatureandlatte.com/scrivener/) - Long-form writing app with binder, corkboard, and research folders for source material.
 - [Milanote](https://milanote.com/) - Visual boards for sorting anecdotes, quotes, and chapter ideas.
 - [Notion](https://www.notion.so/) - Flexible workspace for client briefs, interview logs, and chapter trackers.
+- [Aeon Timeline](https://www.aeontimeline.com/) - Timeline software for lining up a client's life events, people, and dates before outlining.
 
 ## Voice, Style and Line Editing
 
@@ -140,6 +141,7 @@ General-purpose models ghostwriters use for summaries of interview transcripts, 
 - [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI writing tools for romance novelists.
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - AI and writing tools for fantasy and speculative fiction.
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity.
+- [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Tools for turning real memories, interviews, and family stories into a memoir.
 
 ## Contributing
 
