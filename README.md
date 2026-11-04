@@ -142,6 +142,7 @@ General-purpose models ghostwriters use for summaries of interview transcripts, 
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - AI and writing tools for fantasy and speculative fiction.
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity.
 - [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Tools for turning real memories, interviews, and family stories into a memoir.
+- [Awesome Lead Magnet Ebooks](https://github.com/grades2018/awesome-lead-magnet-ebooks) - Drafting, designing, and delivering ebooks that grow an email list.
 
 ## Contributing
 
