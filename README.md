@@ -135,6 +135,7 @@ General-purpose models ghostwriters use for summaries of interview transcripts, 
 
 ## Related Lists
 
+- [Awesome Lists for Writers and Self-Publishers](https://github.com/grades2018/awesome-lists-for-writers) - Hub of curated lists for writing, editing, publishing, and marketing books.
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
 - [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
